@@ -223,4 +223,4 @@ This project is released under the MIT License. See [MIT License](LICENSE) for d
 Abhay Kumar
 B.Tech CSE — CGC Landran
 📧 [abheykumar7860@gmail.com](mailto:abheykumar7860@gmail.com)
-🔗 [https://www.linkedin.com/in/abheykumar07/](https://www.linkedin.com/in/abheykumar07/)
+🔗[[LinkedIn](https://www.linkedin.com/in/abheykumar07/)]
