@@ -205,8 +205,6 @@ FinancialTrackingApp/
 
 ## 🚀 Future Enhancements
 
-### 🎯 Upcoming Features
-
 * 🤖 AI‑based spending predictions
 * 💳 Bank account sync & auto‑import transactions
 * 🌐 Multi‑currency support
