@@ -217,7 +217,7 @@ FinancialTrackingApp/
 
 ## 📝 License & Author
 
-This project is released under the MIT License.
+This project is released under the MIT License. See [LICENSE](LICENSE) for details.
 
 **Author:**
 Abhay Kumar
