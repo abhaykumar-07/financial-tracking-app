@@ -192,13 +192,13 @@ FinancialTrackingApp/
 
 
 ## 🖼️ Screenshots
-<img width="1269" height="578" alt="image" src="https://github.com/user-attachments/assets/a9184260-bcfd-40fe-b6d4-e837def06f57" />
+<img width="1891" height="823" alt="image" src="https://github.com/user-attachments/assets/230969df-506e-4798-a73d-514d73a620ae" />
 
-<img width="1280" height="600" alt="image" src="https://github.com/user-attachments/assets/7262f56d-9ef2-4d3b-8080-4783251b8c70" />
+<img width="1875" height="868" alt="image" src="https://github.com/user-attachments/assets/77427ce1-d07a-41ab-9e23-7dca3ebb6536" />
 
-<img width="1261" height="572" alt="image" src="https://github.com/user-attachments/assets/1f9e9905-1c80-4ee2-bb5d-34acaf359293" />
+<img width="1888" height="842" alt="image" src="https://github.com/user-attachments/assets/60372379-d420-4bf8-9d2a-ec8208ccf9ec" />
 
-<img width="1262" height="628" alt="image" src="https://github.com/user-attachments/assets/67a39e8d-f1aa-44ef-b5d5-fd515ca23eea" />
+<img width="1875" height="863" alt="image" src="https://github.com/user-attachments/assets/a31d3870-541e-40f7-95bc-6a9eb5806b9b" />
 
 
 ---
