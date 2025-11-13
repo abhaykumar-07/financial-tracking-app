@@ -57,21 +57,7 @@ Developed using **React (frontend)** and **Spring Boot + MySQL (backend)**, this
 
 ## 🧩 System Architecture
 
-```
-┌───────────────────────────────┐
-│           Frontend            │  ← (React UI)
-└──────────────┬────────────────┘
-               │ REST API (Axios)
-┌──────────────┴────────────────┐
-│       Spring Boot Backend     │  ← Authentication & Business Logic
-└──────────────┬────────────────┘
-               │ JPA/Hibernate
-┌──────────────┴────────────────┐
-│            MySQL DB           │  ← Persistent Storage
-└───────────────────────────────┘
-```
-
----
+<img width="1536" height="1024" alt="ChatGPT Image Nov 13, 2025, 09_15_25 PM" src="https://github.com/user-attachments/assets/bb6ae3cc-94ff-44ea-bdaf-79f970dfa733" />
 
 ## 🧮 Modules Overview
 
