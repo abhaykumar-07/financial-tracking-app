@@ -28,11 +28,11 @@ public class JwtRequestFilter extends OncePerRequestFilter {
 
         String path = request.getServletPath();
 
-        if (path.startsWith("/api/v1.0/register") ||
-                path.startsWith("/api/v1.0/login") ||
-                path.startsWith("/api/v1.0/activate") ||
-                path.startsWith("/api/v1.0/status") ||
-                path.startsWith("/api/v1.0/health")) {
+        if (path.startsWith("/register") ||
+                path.startsWith("/login") ||
+                path.startsWith("/activate") ||
+                path.startsWith("/status") ||
+                path.startsWith("/health")) {
 
             filterChain.doFilter(request, response);
             return;
